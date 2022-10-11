@@ -1,0 +1,47 @@
+body{
+    margin:0;
+   
+}
+header{
+    background: Black;
+    padding: 20px;
+    margin: center;
+    color: red;
+    font: Serif;
+}
+nav{
+    overflow:hidden;
+    background: gray;
+}
+nav a{
+    float:left;
+    color:#ffffff;
+    padding:15px 10px;
+    text-decoration:none;
+    
+}
+nav a:hover{
+    background: black;
+    color:white;
+}
+a{
+    background: blue;
+    color: white;
+    padding: 12px 10px;
+}
+img {
+   width: 600px;
+   height: 900px;
+ }
+   footer{
+       background: black;
+       
+       padding: 10px;
+       color: white;
+      
+   }
+    
+    
+
+
+
